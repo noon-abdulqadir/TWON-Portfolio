@@ -1,0 +1,20 @@
+Code,Order,Code,Old_Sector_Name,Sector_Name,Used_Sector_Keywords,Gender_Dominant_Category,Age_Dominant_Category
+A,398481,A,"agriculture, forestry and fishing",agriculture and industry,"['forestry', 'agriculture', 'fishing']",Male,Mixed Age
+B,398537,B,mining and quarrying,"industry (no construction), energy","['quarrying', 'mining', 'quarry']",Male,Older
+C,398568,C,manufacturing,manufacturing,"['production manager', 'supply', 'manufacturing', 'managing director', 'industry', 'production', 'gas supply']",Male,Older
+D,398918,D,"electricity, gas, steam and air conditioning supply",energy supply,"['electricity', 'energy supply', 'energy']",Male,Mixed Age
+E,398931,E,"water supply; sewerage, waste management and remediation activities",water supply and waste management,"['water stock', 'waste management', 'water supply', 'water']",Male,Older
+F,398951,F,construction,construction,"['build', 'construction']",Male,Mixed Age
+G,398986,G,wholesale and retail trade; repair of motor vehicles and motorcycles,commercial services,"['wholesaling', 'selling', 'sale', 'buying', 'retail trade', 'marketing manager', 'retail', 'trade', 'wholesale', 'manage driver', 'purchase']",Mixed Gender,Mixed Age
+H,399102,H,transportation and storage,transportation and storage,"['transport', 'transportation', 'logistics manager', 'logistics', 'storage']",Male,Older
+I,399146,I,accommodation and food service activities,accommodation and food serving,"['food', 'hotel', 'accommodation', 'service', 'food service', 'food serving', 'serving']",Mixed Gender,Younger
+J,399164,J,information and communication,information and communication,"['communication', 'network specialist', 'author', 'ict manager', 'software', 'information', 'database', 'director', 'application developer']",Male,Mixed Age
+K,399210,K,financial and insurance activities,financial institutions,"['commercial service', 'commercial', 'financial institution']",Mixed Gender,Older
+L,399242,L,real estate activities,"renting, buying, selling real estate","['rent', 'selling real estate', 'sales real estate', 'renting', 'rental']",Mixed Gender,Older
+M,399251,M,"professional, scientific and technical activities",business services,"['linguist', 'sociologist', 'engineer', 'electrical engineer', 'electrotechnical engineer']",Mixed Gender,Mixed Age
+N,399293,N,administrative and support service activities,renting and other business support,"['business support', 'specialised services manager', 'career development specialist', 'honorary service activity', 'business service', 'hire', 'service activity', 'specialised business service']",Mixed Gender,Younger
+O,399352,O,public administration and defence; compulsory social security,government and care,"['public administration', 'government']",Female,Mixed Age
+P,399366,P,education,education,"['teacher', 'honorary teacher', 'pedagogue', 'education', 'primary school teacher', 'educationalist']",Female,Mixed Age
+Q,399385,Q,human health and social work activities,health and social work activities,"['physiotherapist', 'social worker', 'manager of healthcare institution', 'social work activity', 'social activity', 'social work', 'psychologist', 'specialised nurse', 'care', 'health', 'doctor']",Female,Mixed Age
+R,399410,R,"arts, entertainment and recreation","culture, recreation, other services","['catering', 'culture', 'recreation', 'sport']",Mixed Gender,Mixed Age
+S,399435,S,other service activities,other service activities,['staff'],Female,Mixed Age

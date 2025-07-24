@@ -1,0 +1,59 @@
+,Search Keyword,Platform,Job ID,Job Title,Company Name,Location,Job Description,Rating,Employment Type,Company URL,Job URL,Job Age,Job Age Number,Collection Date,Dutch Requirement,English Requirement,Sector,Gender_Female,Gender_Mixed,Gender_Male,Age_Older,Age_Mixed,Age_Younger,Gender_Num,Age_Num,Language,Sector Code,% Female,% Male,% Older,% Younger,Gender,Age
+0,application developers,Indeed,p_f341504d9a890ced,Application Specialist,Fast Four, Schiphol,"Fast Four is growing! In our young, fun and international team we are looking for somebody that will make software implementation a smooth journey for our customers.
+
+The role
+
+You are the backbone in the delivery of our application Scan & Capture. After the customer signs up, you configure their application. You train customers in using the product, with help of senior consultants. You answer day-to-day questions from customers. When you have identified a possible improvement with a customer, you feed that back to the Product Owner and development team.
+
+You assist partners (that resell the application) in configuring demo accounts so partners can demo the solutions.
+
+
+Main activities:
+
+Configuring the application for new customers
+Basic training on the solutions
+Provide support and Q&A to end-users
+
+
+The role will be based at our office on Schiphol Airport, less then 10 minutes walk from the train station. English language is required.
+
+
+About the application: Scan & Capture
+
+We have developed four add-ons to the NetSuite cloud ERP platform, used by 500 customers globally.
+
+The two largest apps are Scan & Capture and Bank Reconciliation (automated entry of bank transactions). The position of Application Specialist is fully focused on Scan & Capture.
+
+Scan & Capture uses OCR (Abbyy FlexiCapture) to convert PDF vendor bills into meaningful data. That data is used to automate entry of vendor bills. The app includes e-invoicing as well.
+
+
+The ideal candidate
+
+You have degree in MBO or HBO or similar
+You are satisfied when the customer is satisfied
+You are the type of person that will dig into a software problem and find a solution
+You have a positive attitude. Our customers undergo large and complex change projects that can be stressful. You patiently listen to them and address their needs
+You always find ways to make your life easier. By improving the way you do things or automating repetitive tasks.
+You have some affinity with finance, as our software solutions are focuses on automating financial processes
+You are available at least 32 hours per week
+You currently live in the Netherlands or Belgium
+
+
+About Fast Four
+
+Fast Four started in 2012 to implement NetSuite (cloud-based ERP from Oracle) at dutch-headquartered companies. Since 1st January 2020 we started a team in Belgium with an office in Antwerp.
+
+
+With the experience as implementation consultants, the company started to build add-ons to enhance NetSuite’s native functionality. Currently Fast Four manages four apps, all developed and enhanced based on customer request.
+
+
+While we are fully focused on NetSuite, we do have two main activities: implementing full ERP systems (large complex projects) and develop/implement apps. This vacancy is fully focused on apps, and more specifically on Scan & Capture.
+
+
+Fast Four has a team of 30+ resources and continues to grow. Your future colleagues are functional consultants, sales representatives and developers. We have implemented NetSuite at over 60 customers and our add-ons are used by over 500 customers globally.
+
+Evert van de Beekstraat 1
+
+1118CL Schiphol
+
+Tel.: 0202610122",-1,-1,https://indeed.nl/rc/clk?jk=f341504d9a890ced&from=vj&mvj=0&vjfrom=vjs&pos=bottom&astse=31d4c532555349b2&assa=3351,https://nl.indeed.com/vacature-bekijken?jk=f341504d9a890ced&fccid=789465f899aea543&vjs=3,Meer dan 30 dagen geleden,Meer dan 30 dagen geleden,2021-01-20,No,Yes,information and communication,0,1,0,0,1,0,2,2,en,J,0.27586206896551724,0.7241379310344828,0.3275862068965517,0.6724137931034483,Mixed Gender,Mixed Age

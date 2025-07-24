@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>JavaScript Functions</title>
+    </head>
+
+    <body>
+        <script>
+            // function isMobileDeviceAndRedirect() {
+            //     const mobileKeywords = [
+            //         'android', 'iphone', 'ipod', 'ipad', 'blackberry', 'bb10', 'windows phone', 'opera mini',
+            //         'mobile', 'tablet', 'kindle', 'silk', 'palm', 'webos'
+            //     ];
+
+            //     // Retrieve the UserAgent and DeviceIdentifier from Qualtrics' embedded data fields
+            //     const userAgent = Qualtrics.SurveyEngine.getJSEmbeddedData('UserAgent') || navigator.userAgent; // Fallback to navigator.userAgent if field is empty
+            //     const deviceIdentifier = Qualtrics.SurveyEngine.getJSEmbeddedData('DeviceIdentifier'); // DeviceIdentifier from Qualtrics
+
+            //     const lowerCaseUserAgent = userAgent.toLowerCase();
+
+            //     // Check if UserAgent contains any of the mobile-related keywords
+            //     const isMobileFromUserAgent = mobileKeywords.some(keyword => lowerCaseUserAgent.includes(keyword));
+
+            //     // Check DeviceIdentifier (example values could be "Mobile", "Tablet", "Desktop")
+            //     const isMobileFromDeviceIdentifier = (deviceIdentifier && deviceIdentifier.toLowerCase() === 'mobile');
+
+            //     // If mobile device is detected from either UserAgent or DeviceIdentifier, redirect
+            //     if (isMobileFromUserAgent || isMobileFromDeviceIdentifier) {
+            //         alert("This survey is not available on mobile devices. The survey will now be terminated.");
+            //     } else {
+            //         console.log("Non-mobile device detected. Survey continues.");
+            //     }
+            // }
+
+            function executeCustomSurveyLogic(qobj, conditionKey) {
+                console.log("executeCustomSurveyLogic started with conditionKey: " + conditionKey);
+
+                let paths = {}; // Object to store paths
+                const that = qobj; // Reference to the question object
+                const pathsJsonUrl = "https://uva.eu.qualtrics.com/ControlPanel/File.php?F=F_gzBiWw9hJqlMKV9";
+                const trialNumber = conditionKey.split('_').pop();
+                const prefix = "trial" + trialNumber + "_";
+
+                function fetchContent(url, method = 'GET') {
+                    let xhr = new XMLHttpRequest();
+                    xhr.open(method, url, false); // false makes the request synchronous
+                    xhr.send();
+
+                    if (xhr.status >= 200 && xhr.status < 300) {
+                        return xhr.responseText;
+                    } else {
+                        throw new Error("HTTP error! Status: " + xhr.status);
+                    }
+                }
+
+                function setInnerHTML(elementId, content) {
+                    let element = document.getElementById(elementId);
+                    if (element) {
+                        console.log("Found element with ID: " + elementId);
+                        element.innerHTML = content;
+                        console.log("Content set for element with ID: " + elementId);
+                    } else {
+                        console.error("Element with ID " + elementId + " not found.");
+                    }
+                }
+
+                function replaceImages(content) {
+                    if (!paths.FEMALE_ICON_COLOR_PATH || !paths.MALE_ICON_COLOR_PATH || !paths.RED_PLUS_SIGN_PATH || !paths.YELLOW_STAR_PATH) {
+                        console.error("One or more image paths are missing.");
+                        return content;
+                    }
+
+                    let parser = new DOMParser();
+                    let doc = parser.parseFromString(content, "text/html");
+                    let images = doc.querySelectorAll("img");
+
+                    images.forEach(function (img) {
+                        switch (img.alt.trim().toLowerCase()) {
+                            case "female icon":
+                                img.src = paths.FEMALE_ICON_COLOR_PATH;
+                                break;
+                            case "male icon":
+                                img.src = paths.MALE_ICON_COLOR_PATH;
+                                break;
+                            case "red plus sign":
+                                img.src = paths.RED_PLUS_SIGN_PATH;
+                                break;
+                            case "yellow star":
+                                img.src = paths.YELLOW_STAR_PATH;
+                                break;
+                            default:
+                                console.warn("No matching path for alt text: " + img.alt);
+                                break;
+                        }
+                    });
+
+                    return doc.body.innerHTML;
+                }
+
+                function loadHTMLContent(url, elementId) {
+                    console.log("Loading content from " + url + " into element with ID: " + elementId);
+                    try {
+                        let content = fetchContent(url);
+                        if (!content || content === "") {
+                            throw new Error("Empty content returned from " + url);
+                        } else {
+                            console.log("Content loaded successfully from " + url);
+                        }
+                        let updatedContent = replaceImages(content);
+                        if (!updatedContent) {
+                            throw new Error("Failed to update content with images from " + url);
+                        } else {
+                            console.log("Updated content loaded successfully from " + url);
+                        }
+                        setInnerHTML(elementId, updatedContent);
+                    } catch (error) {
+                        console.error("Error loading content for " + elementId + " from " + url + ": " + error);
+                        setInnerHTML(elementId, '<p style="color: #B00004;">Failed to load content from ' + url + '</p>');
+                    }
+                }
+
+                function loadJSON(filePath) {
+                    console.log("Loading JSON from " + filePath);
+                    try {
+                        let responseText = fetchContent(filePath);
+                        let data = JSON.parse(responseText);
+                        if (typeof data != "object" || Object.keys(data).length === 0) {
+                            throw new Error("JSON file is empty or invalid.");
+                        }
+                        console.log("JSON loaded successfully.");
+                        return data;
+                    } catch (error) {
+                        console.error("Error loading JSON: " + error);
+                        throw error;
+                    }
+                }
+
+                function checkAllUrls(pathsJson) {
+                    console.log("Checking accessibility of all URLs in paths JSON.");
+                    let keys = Object.keys(pathsJson);
+                    for (let i = 0; i < keys.length; i++) {
+                        let url = pathsJson[keys[i]];
+                        try {
+                            fetchContent(url, "HEAD");
+                        } catch (error) {
+                            console.error("URL not accessible: " + url);
+                            throw new Error("Some URLs are not accessible.");
+                        }
+                    }
+                    console.log("All URLs are accessible.");
+                }
+
+                function loadPaths() {
+                    console.log("Loading paths from JSON file.");
+                    let allPathsJson = loadJSON(pathsJsonUrl);
+                    let pathsJson = allPathsJson["qualtrics"];
+                    if (!pathsJson) {
+                        throw new Error("Paths data is missing or invalid.");
+                    }
+                    console.log("Paths loaded successfully.");
+                    checkAllUrls(pathsJson);
+                    Object.keys(pathsJson).forEach(function (key) {
+                        paths[key.toUpperCase()] = pathsJson[key];
+                    });
+                    console.log("Paths stored successfully.");
+                    return paths;
+                }
+
+                function getConditionsDict() {
+                    console.log("Loading conditions dictionary.");
+                    let conditions = loadJSON(paths.CONDITIONS_PATH);
+                    console.log("Total number of conditions: " + Object.keys(conditions).length);
+                    return conditions;
+                }
+
+                function loadCondition(conditions, conditionKey) {
+                    console.log("Loading condition with key: " + conditionKey);
+                    let condition = conditions[conditionKey];
+                    if (condition) {
+                        console.log("Condition loaded successfully: " + JSON.stringify(condition));
+                        return condition;
+                    } else {
+                        console.error("Condition with key " + conditionKey + " not found.");
+                        return null;
+                    }
+                }
+
+                console.log("Main execution started with conditionKey: " + conditionKey);
+
+                function loadInstructionsAndStimulus() {
+                    console.log("Loading instructions and stimuli content");
+                    loadHTMLContent(paths.INSTRUCTIONS_PATH, "instructions");
+                    loadHTMLContent(paths.STIMULUS_PATH, "stimulus");
+                }
+
+                function insertBadge(candidateKey, badgeType) {
+                    console.log('InsertBadge function called. Checking candidateKey and badgeType.');
+                    if (!candidateKey || candidateKey.trim() === '' || candidateKey === 'no_ai_recommendation') {
+                        console.warn(`No candidate to insert badge for: ${candidateKey}`);
+                        return;
+                    }
+                    console.log(`Inserting badge for candidate: ${candidateKey}`);
+                    const candidateId = candidateKey.replace(/_/g, "-");
+                    console.log(`Candidate ID: ${candidateId}`);
+                    const candidateElement = document.getElementById(candidateId);
+                    if (candidateElement) {
+                        const badgeContainer = candidateElement.querySelector('.badge-container');
+                        if (badgeContainer) {
+                            let badgeTargetElement;
+
+                            if (badgeType === "ai-recommendation") {
+                                badgeTargetElement = badgeContainer.querySelector(".badge-ai-recommendation");
+                            } else if (badgeType === "diversity-cue") {
+                                badgeTargetElement = badgeContainer.querySelector(".badge-diversity-cue");
+                            }
+
+                            if (badgeTargetElement) {
+                                // Check if badge is already populated
+                                if (!badgeTargetElement.innerHTML.trim()) {
+                                    const badgePath =
+                                        badgeType === "ai-recommendation"
+                                            ? paths.BADGE_AI_RECOMMENDATION_PATH
+                                            : paths.BADGE_DIVERSITY_CUE_PATH;
+
+                                    const badgeContent = fetchContent(badgePath);
+                                    if (badgeContent) {
+                                        badgeTargetElement.innerHTML = badgeContent;
+                                        badgeTargetElement.classList.remove("hidden");
+                                    } else {
+                                        console.error(`Badge content not fetched for ${badgeType}`);
+                                    }
+                                } else {
+                                    console.warn(`Badge for ${badgeType} already set for candidate ${candidateId}`);
+                                }
+                            } else {
+                                console.error(`Badge target element not found for ${badgeType}`);
+                            }
+                        } else {
+                            console.error(`Badge container not found in candidate: ${candidateId}`);
+                        }
+                    } else {
+                        console.error(`Candidate element not found: ${candidateId}`);
+                    }
+                }
+
+                function loadJobAdCandidateDataAndBadges(values) {
+                    console.log("Loading job ad, candidate data, and badges.");
+                    loadHTMLContent(paths.INSTRUCTIONS_NEXT_BUTTON_DELAY_PATH, "instructions_next_button_delay");
+
+                    loadHTMLContent(paths[values.jobAd.toUpperCase() + "_PATH"], "job-ad");
+                    loadHTMLContent(paths[values.leftCandidate.toUpperCase() + "_PATH"], "left-candidate");
+                    loadHTMLContent(paths[values.rightCandidate.toUpperCase() + "_PATH"], "right-candidate");
+                    loadHTMLContent(paths.INSTRUCTIONS_NO_AI_AND_DIVERSITY_CUE_PATH, "instructions_no_ai_and_diversity_cue");
+
+                    if (values.aiRecommended != "no_ai_recommendation" || values.diversityCue != "no_diversity_cue") {
+                        insertBadge(values.aiRecommended, "ai-recommendation");
+                        insertBadge(values.diversityCue, "diversity-cue");
+                        loadHTMLContent(paths.INSTRUCTIONS_AI_AND_DIVERSITY_CUE_PATH, "instructions_ai_and_diversity_cue");
+                    }
+                }
+
+                function setHoverInstructions(values) {
+                    console.log("Setting hover instructions.");
+
+                    try {
+                        // Fetch the full instructions HTML
+                        let fullInstructionsHTML = fetchContent(paths.INSTRUCTIONS_PATH);
+
+                        // Fetch the main instructions and replace the placeholder
+                        fullInstructionsHTML = fullInstructionsHTML.replace('<div id="instructions_no_ai_and_diversity_cue"></div>', fetchContent(paths.INSTRUCTIONS_NO_AI_AND_DIVERSITY_CUE_PATH));
+
+                        // Check if AI recommendation or diversity cue exists
+                        if (values.aiRecommended != "no_ai_recommendation" || values.diversityCue != "no_diversity_cue") {
+                            // Fetch additional instructions and replace images
+                            let updatedAdditionalInstructions = replaceImages(fetchContent(paths.INSTRUCTIONS_AI_AND_DIVERSITY_CUE_PATH));
+
+                            // Replace the placeholder with the updated additional instructions
+                            fullInstructionsHTML = fullInstructionsHTML.replace('<div id="instructions_ai_and_diversity_cue"></div>', updatedAdditionalInstructions);
+                        }
+
+                        // Find the tooltip element and set its content
+                        let tooltipElement = document.querySelector(".hover-icon .tooltip-text");
+                        if (tooltipElement) {
+                            tooltipElement.innerHTML = fullInstructionsHTML;
+                            console.log("Hover instructions updated successfully.");
+                        } else {
+                            console.error("Tooltip element not found.");
+                        }
+                    } catch (error) {
+                        console.error("Error fetching hover instructions: " + error);
+                    }
+                }
+
+                function setAndEmbedLabelsAndValues(values) {
+                    console.log("Starting to set labels and values for conditionKey: " + values.conditionKey);
+                    setupLabelsAndLayout(values);
+
+                    calculateRecodes(values);
+
+                    let choices = that.getChoices();  // This returns an array of choice objects
+                    values.leftCandidateChoiceID = parseInt(choices[0], 10);
+                    values.rightCandidateChoiceID = parseInt(choices[1], 10);
+                    console.log(
+                        "Choice IDs:"
+                        + " Left Candidate Choice ID: " + values.leftCandidateChoiceID
+                        + ", Right Candidate Choice ID: " + values.rightCandidateChoiceID
+                    );
+
+                    // Assign aiRecommendedChoiceID based on aiRecommended
+                    if (values.aiRecommended === "left_candidate") {
+                        values.aiRecommendedCandidateChoiceID = values.leftCandidateChoiceID;
+                    } else if (values.aiRecommended === "right_candidate") {
+                        values.aiRecommendedCandidateChoiceID = values.rightCandidateChoiceID;
+                    } else {
+                        values.aiRecommendedCandidateChoiceID = null; // Handle case when there's no AI recommendation
+                    }
+                    console.log("AI Recommended Candidate Choice ID: " + values.aiRecommendedCandidateChoiceID);
+
+                    // Assign diversityCueChoiceID based on diversityCue
+                    if (values.diversityCue === "left_candidate") {
+                        values.diversityCueCandidateChoiceID = values.leftCandidateChoiceID;
+                    } else if (values.diversityCue === "right_candidate") {
+                        values.diversityCueCandidateChoiceID = values.rightCandidateChoiceID;
+                    } else {
+                        values.diversityCueCandidateChoiceID = null; // Handle case when there's no diversity cue
+                    }
+                    console.log("Diversity Cue Candidate Choice ID: " + values.diversityCueCandidateChoiceID);
+
+                    console.log("Updated values object: " + JSON.stringify(values));
+
+                    populateEmbeddedDataFields(values);
+                }
+
+                function setupLabelsAndLayout(values) {
+                    console.log(
+                        "Setting up labels and layout."
+                        + " Left Label: " + values.leftCandidateName
+                        + ", Right Label: " + values.rightCandidateName
+                    );
+
+                    let labels = document.querySelectorAll(".choice-content > .display-with-image > .display-with-image-display.rich-text");
+
+                    if (labels.length >= 2) {
+                        labels[0].innerHTML = values.leftCandidateName;
+                        labels[1].innerHTML = values.rightCandidateName;
+                        labels.forEach(label => {
+                            label.style.fontWeight = "bold";
+                            label.style.textAlign = "center";
+                        });
+                        console.log("Labels updated and set to bold.");
+
+                        let questionContainer = document.querySelector(".question-content");
+                        if (questionContainer) {
+                            Object.assign(questionContainer.style, {
+                                display: "flex",
+                                flexDirection: "column",
+                                alignItems: "center",
+                                justifyContent: "center",
+                                marginLeft: "8%",
+                            });
+                            console.log("Question container adjusted.");
+                        } else {
+                            console.error("Question container not found.");
+                        }
+                        let mcContentContainer = document.querySelector(".mc-content");
+                        if (mcContentContainer) {
+                            Object.assign(mcContentContainer.style, {
+                                display: "flex",
+                                flexDirection: "column",
+                                alignItems: "center",
+                                justifyContent: "center",
+                                width: "100%"
+                            });
+                            console.log("MC content container adjusted.");
+                        } else {
+                            console.error("MC content container not found.");
+                        }
+                        let choicesContainer = mcContentContainer.querySelector(".choices");
+                        if (choicesContainer) {
+                            Object.assign(choicesContainer.style, {
+                                display: "grid",
+                                flexDirection: "column",
+                                justifyContent: "center",
+                                alignItems: "center",
+                                width: "100%",
+                            });
+
+                            console.log("Choices container layout adjusted.");
+                        } else {
+                            console.error("Choices container not found.");
+                        }
+                    } else {
+                        console.error("Not enough labels found.");
+                    }
+                }
+
+                function calculateRecodes(values) {
+                    let coding;
+                    if (values.jobAd.toLowerCase().includes("warmth")) {
+                        coding = { female: 1, male: 2 };
+                    } else if (values.jobAd.toLowerCase().includes("competence")) {
+                        coding = { female: 2, male: 1 };
+                    } else {
+                        console.error("JobAd does not contain either warmth or competence in its name.");
+                        return null;
+                    }
+
+                    values.leftCandidateRecode = parseInt((values.leftCandidate.toLowerCase().includes("female")) ? coding.female : coding.male, 10);
+                    values.rightCandidateRecode = parseInt((values.rightCandidate.toLowerCase().includes("female")) ? coding.female : coding.male, 10);
+                    values.aiRecommendedCandidateRecode = parseInt((values.aiRecommendedCandidate.toLowerCase().includes("female")) ? coding.female : coding.male, 10);
+                    values.diversityCueCandidateRecode = parseInt((values.diversityCueCandidate.toLowerCase().includes("female")) ? coding.female : coding.male, 10);
+
+                    console.log(
+                        "Calculated recodes: Left Candidate Recode: " + values.leftCandidateRecode
+                        + ", Right Candidate Recode: " + values.rightCandidateRecode
+                        + ", AI Recommended Candidate Recode: " + values.aiRecommendedCandidateRecode
+                        + ", Diversity Cue Candidate Recode: " + values.diversityCueCandidateRecode
+                    );
+
+                    // Convert recodes to integers (if necessary)
+                    values.leftCandidateRecode = parseInt(values.leftCandidateRecode, 10);
+                    values.rightCandidateRecode = parseInt(values.rightCandidateRecode, 10);
+                    values.aiRecommendedCandidateRecode = parseInt(values.aiRecommendedCandidateRecode, 10);
+                    values.diversityCueCandidateRecode = parseInt(values.diversityCueCandidateRecode, 10);
+                }
+
+                function populateEmbeddedDataFields(values) {
+
+                    console.log("Populating embedded data with actual values using values object.");
+
+                    function setValidEmbeddedData(key, value) {
+                        if (typeof value === 'object') {
+                            value = JSON.stringify(value);  // Convert objects to strings
+                            console.log("Value for key " + key + " is an object. Converting to string.");
+                        }
+                        if (value === undefined) {
+                            value = null;  // Handle undefined by setting to null
+                            console.log("Value for key " + key + " is undefined. Setting to null.");
+                        }
+                        Qualtrics.SurveyEngine.setJSEmbeddedData(key, value);
+                    }
+
+                    // Iterate over the properties of `values`
+                    Object.keys(values).forEach(key => {
+                        const fullKey = prefix + key;  // Construct the full key with the prefix
+                        const value = values[key];     // Get the corresponding value
+                        console.log("Setting embedded data for key: " + fullKey + ", value: " + value);
+                        setValidEmbeddedData(fullKey, value);  // Set the value in Qualtrics embedded data
+                    });
+                    console.log("Embedded data fields populated for both left and right candidates.");
+                }
+
+                function mainExecution(conditionKey) {
+                    try {
+                        loadPaths();
+                        console.log("Paths loaded, fetching conditions.");
+                        let conditions = getConditionsDict();
+                        const condition = loadCondition(conditions, conditionKey);
+                        console.log("Condition key retrieved from embedded data: " + conditionKey);
+                        if (condition) {
+                            console.log("Condition loaded: " + JSON.stringify(condition));
+
+                            // Function to convert keys from snake_case to camelCase
+                            function toCamelCase(str) {
+                                return str.split('_').map((word, index) =>
+                                    index === 0 ? word : word.charAt(0).toUpperCase() + word.slice(1)
+                                ).join('');
+                            }
+
+                            // Parse the condition object and assign variables with camelCase names
+                            const values = {};
+
+                            Object.keys(condition).forEach(key => {
+                                const camelCaseKey = toCamelCase(key);
+                                values[camelCaseKey] = condition[key];
+                                console.log("Setting " + camelCaseKey + ": " + condition[key]);
+                            });
+
+                            values.conditionKey = conditionKey;
+
+                            console.log("Running main execution functions.");
+
+                            loadInstructionsAndStimulus();
+                            loadJobAdCandidateDataAndBadges(values);
+                            setHoverInstructions(values);
+                            setAndEmbedLabelsAndValues(values);
+                        } else {
+                            console.error("Failed to load a valid condition.");
+                        }
+                    } catch (error) {
+                        console.error("Error during main execution: " + error);
+                    }
+                }
+                mainExecution(conditionKey);
+            }
+
+            // Function to run after OnPageSubmit to retrieve choice and recode it
+            function recodeAndStoreChoice(qobj, conditionKey) {
+                const that = qobj;
+                const trialNumber = conditionKey.split('_').pop();
+                const prefix = "trial" + trialNumber + "_";
+
+                const candidateSides = ['left', 'right'];
+                const suffixes = [
+                    "Candidate",
+                    "CandidateName",
+                    "CandidateGender",
+                    "CandidateGenderNum",
+                    "CandidateChoiceID",
+                    "CandidateRecode"
+                ];
+                const numericSuffixes = suffixes.slice(-3);
+
+                let candidateData = {};
+
+                candidateSides.forEach(side => {
+                    candidateData[side] = {};  // Initialize the object for the side
+
+                    suffixes.forEach(suffix => {
+                        let value = Qualtrics.SurveyEngine.getJSEmbeddedData(prefix + side + suffix);
+
+                        // Convert to number for specific suffixes
+                        if (numericSuffixes.includes(suffix)) {
+                            value = parseInt(value, 10);  // Convert to integer
+                        }
+
+                        candidateData[side][suffix] = value;
+                    });
+                });
+
+                // Retrieve the choice ID that was selected by the respondent
+                const selectedChoiceID = that.getSelectedChoices().map(Number)[0];  // Assuming single choice
+                console.log("Selected Choice ID: " + selectedChoiceID);
+
+                if (
+                    selectedChoiceID != null &&
+                    candidateSides.every(side => Object.values(candidateData[side]).every(value => value != null))
+                ) {
+
+                    const isLeftChoice = selectedChoiceID === candidateData.left.CandidateChoiceID;
+                    let side = isLeftChoice ? 'left' : 'right';
+
+                    // Embed "recordedChoice" first since we already know the side
+                    let recordedChoice = side + "_candidate";
+                    Qualtrics.SurveyEngine.setJSEmbeddedData(prefix + "recordedChoice", recordedChoice);
+                    console.log("Stored recordedChoice as " + prefix + "recordedChoice: " + recordedChoice);
+
+                    // Loop over suffixes and embed the data dynamically, with exceptions for ChoiceID and Recode
+                    suffixes.forEach(suffix => {
+                        // Skip "Recode" as we don't need it
+
+                        const value = candidateData[side][suffix];
+                        let varName = prefix + "recordedChoice" + suffix;
+
+                        Qualtrics.SurveyEngine.setJSEmbeddedData(varName, value);
+                        console.log("Stored " + suffix + " as " + varName + ": " + value);
+                    });
+
+                } else {
+                    console.error("Required data for recoding not found.");
+                }
+            }
+        </script>
+    </body>
+
+</html>

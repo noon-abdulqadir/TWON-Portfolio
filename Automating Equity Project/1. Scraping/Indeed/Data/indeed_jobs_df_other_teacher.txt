@@ -1,0 +1,511 @@
+,Search Keyword,Platform,Job ID,Job Title,Company Name,Location,Job Description,Rating,Employment Type,Company URL,Job URL,Job Age,Job Age Number,Collection Date,Language,English Requirement,Dutch Requirement,Sector,Gender_Female,Gender_Mixed,Gender_Male,Age_Older,Age_Mixed,Age_Younger,Gender_Num,Age_Num,Sector Code,% Female,% Male,% Older,% Younger,Gender,Age
+0,other teacher,Indeed,pj_50a68ac5e2fba80b,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken/pagead/clk?mo=r&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&p=0&fvj=0&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,education,0,1,0,0,1,0,2.0,2.0,P,0.6512915129151291,0.34870848708487084,0.466789667896679,0.5313653136531366,Mixed Gender,Mixed Age
+1,other teacher,Indeed,p_c601814bb6518b7a,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken?jk=c601814bb6518b7a&fccid=68993c957c6a9231&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,education,0,1,0,0,1,0,2.0,2.0,P,0.6512915129151291,0.34870848708487084,0.466789667896679,0.5313653136531366,Mixed Gender,Mixed Age
+2,other teacher,Indeed,p_da12248db1fc2fd2,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken?jk=da12248db1fc2fd2&fccid=50f94ca13dc65073&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,education,0,1,0,0,1,0,2.0,2.0,P,0.6512915129151291,0.34870848708487084,0.466789667896679,0.5313653136531366,Mixed Gender,Mixed Age
+3,other teacher,Indeed,p_9bdb6a568b0232f9,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken/company/TentamenTrainingen.nl/jobs/Writer-Exam-Bundles-Psychology-9bdb6a568b0232f9?fccid=1ea5f5f015a0ca13&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,education,0,1,0,0,1,0,2.0,2.0,P,0.6512915129151291,0.34870848708487084,0.466789667896679,0.5313653136531366,Mixed Gender,Mixed Age
+4,other teacher,Indeed,p_89d357baead1e147,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken?jk=89d357baead1e147&fccid=68b3a6ff2781209d&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,education,0,1,0,0,1,0,2.0,2.0,P,0.6512915129151291,0.34870848708487084,0.466789667896679,0.5313653136531366,Mixed Gender,Mixed Age
+5,other teacher,Indeed,pj_2cdb807d033e9a0c,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken/pagead/clk?mo=r&ad=-6NYlbfkN0DZ7Wd6zrJ_LmLZJe2VxxXZsy6jqceSNb46_z1LiyFfVJWAg9iobnsRHXmgYTVaPLbUuqI2-4LDW3qjRdSI0j-lTh3u5Io8yjTUJLW7Z7-_wi6YXfcqTbjvJH6EFQB5R68uTS1kQKMlGQ9LG1OBJ2fzDFQ-Kf_PEESe2_GToCwCFI4iI2XzTKCZ_2jc9YT2UGvqmeGYvl-iFiONY89wZ0VPSaSjEtePpGEqJHNQ1wTJY9dGwtDspNnjJiPmeBIEU4-aeXQbQFn4ukIVKacCi5z6cfOlAmjIroimARHHqxBxn4J4t9Ty1bU09vJNbw7CKw-4DA2K3M5DontlWnjhKrm1MFO1lE_BbycCr6_ry_let8pHRWYm7TAWzNGobKtvGi39PhffEdhyN-gBwZe4GtiFZ1ia80Kt5DhHgBiqJ8h3rgvHDCuZXY976G99KP8TZlPzXCJs_f9oi0rEg41PfvdQZQebQ91EGg7qOh0I1cMQED3Fh1iq0fkvsyZ7HSuOstPP41pt69d_Q2-tMKcxHsbdSqUfBT_eOWNcuw5gosUbldVea6f1o9kack22pTz9Y-Sc2EZl0BIyw2Qu0POfMuM2shehzajtwSczlu2D1F_sjtfsz2wuGVFb84FDdGVkOUmlIAarn-qNo1BxUA3s_0_h&p=5&fvj=0&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,education,0,1,0,0,1,0,2.0,2.0,P,0.6512915129151291,0.34870848708487084,0.466789667896679,0.5313653136531366,Mixed Gender,Mixed Age
+6,other teacher,Indeed,p_39341927317a51c6,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken?jk=39341927317a51c6&fccid=c04cd7af2ce131cd&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,education,0,1,0,0,1,0,2.0,2.0,P,0.6512915129151291,0.34870848708487084,0.466789667896679,0.5313653136531366,Mixed Gender,Mixed Age
+7,other teacher,Indeed,pj_5bc5e08fe11636a7,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken/pagead/clk?mo=r&ad=-6NYlbfkN0BUi5skEC2JacOuA5S-guKlBVqGkEVnSMmX3xEoRIYszl3Fq1VGX9VWMTdBm4NA_OMtY7c_urAXs3DNEF0o_tzB4Y3BphvNoR0K3yab1wmJ-d5DKavtEl5aK-aCBHAjlIcYodCu4prFNNkEiGS_aH-gQyJGmdfubZj0-c-fCdyoP0so1Pgqw-jMfUxGRk0QmpQhM6XFFSZFUBpCgqBBl8-_e-q2pWmnjMajiRL7yIGhQNoZIOAlC6ieeiRD1taLikXjfdW-aoH7QXY_YRsSSlVmm29coC7IdNBBDmu3Qoyhb97T8tzFP9pmu5iI-5_hlIqYCClOfYWfceMtc1soo7CmdYiz7TnvAYWHL1oBbDbukrX51l5Sfi_2aaQ58au8qoAqU06BVwOrsZ9K5RZqKxfMFS5T3FZl5S7foPZJJ0Vqm1bqg7khqANoaZZs_J2yfVv0b1nqYeVzp-JRMOgc8cxbFvHR2Sgvh1Y0mXcmSpIBcS8APPKpzcljAx85cnB2V6GUx1P91Qmb9YjxEyAql2dLix7ny9O1L6lfi0PHQ40vHKiqDP711FaQycxpeyHdF-2UqrN9K9AfkxDo4LUCjZGmtWmMn9lgp9Qcq5DW_fc3s265GRob4omPTq7I2gSXp1Vixu3JbsG5ys_x6ZaoLMtv&p=7&fvj=0&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,government and care,1,0,0,0,1,0,1.0,2.0,O,0.6815450643776824,0.3184549356223176,0.4882403433476395,0.5117596566523606,Female,Mixed Age
+8,other teacher,Indeed,p_35cfd84bada1cf5a,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken?jk=35cfd84bada1cf5a&fccid=9d7921cb2a20ec55&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,,0,0,0,0,0,0,,,,,,,,,
+9,other teacher,Indeed,p_4a7cd71f63efcfa2,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken?jk=4a7cd71f63efcfa2&fccid=4ee282fbb93a3724&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,education,0,1,0,0,1,0,2.0,2.0,P,0.6512915129151291,0.34870848708487084,0.466789667896679,0.5313653136531366,Mixed Gender,Mixed Age
+10,other teacher,Indeed,p_38dee359b06f0025,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken/company/Europese-School/jobs/Docent-Aardrijkskunde-Economie-38dee359b06f0025?fccid=1231c538ada7aa56&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,education,0,1,0,0,1,0,2.0,2.0,P,0.6512915129151291,0.34870848708487084,0.466789667896679,0.5313653136531366,Mixed Gender,Mixed Age
+11,other teacher,Indeed,p_b00b225a72b3f6ec,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken?jk=b00b225a72b3f6ec&fccid=427632dad26793b5&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,,0,0,0,0,0,0,,,,,,,,,
+12,other teacher,Indeed,p_626734fc8b377052,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken?jk=626734fc8b377052&fccid=dda10d8219cc4844&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,commercial services,0,1,0,0,1,0,2.0,2.0,G,0.43134535367545074,0.5686546463245492,0.340940612785273,0.6591854747194553,Mixed Gender,Mixed Age
+13,other teacher,Indeed,p_708c00c04892a961,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken/company/Gerrit-Rietveld-Academie/jobs/Hoofd-Design-Lab-Uur-Per-Week-708c00c04892a961?fccid=346d372abbb188fb&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,education,0,1,0,0,1,0,2.0,2.0,P,0.6512915129151291,0.34870848708487084,0.466789667896679,0.5313653136531366,Mixed Gender,Mixed Age
+14,other teacher,Indeed,p_e7ec31b1db943251,Scrum Master I,ABN AMRO Bank, Amsterdam,"Do you want to contribute to bringing our teams to a new level of Agile maturity? Do you want to play a role in our journey towards DevOps? We would like to meet you.
+
+Your job
+As a scrum master you will have a crucial contribution in making relevant and high-quality data available to internal stakeholders and external regulators. We strive to do this effectively by implementing Azure Cloud Services and we need your help to do this! You will be responsible for:
+Guiding the team to become more self-organizing and adopting the DevOps principles
+Identify and help the teams to resolve impediments
+Being a coach, mentor and teacher to the developers and product owner in adopting Scrum and DevOps
+Establishing an environment in which the team can be effective
+Protecting the team from irrelevant distractions and interruptions
+Working environment
+You will be part of the Risk Data & Modelling Grid. The Grid's ambition is to optimize the risk data landscape, so that both our customers and ABN AMRO can conduct business with integrity. The teams are responsible for loading, transforming and integrating data to feed reports and enable analyses. Some teams are also in a transition to the public cloud (Microsoft Azure), other teams are already working on Azure.
+The atmosphere within the teams and the department is open and informal. You will work in a diverse team with many different nationalities, and a good man-woman and junior-senior ratio. We work hard, but there is also a lot of room for fun!
+
+Your profile
+You have a strong drive to enable the teams to continuously improve. You are also good at conveying your expertise to others, share information with team members and work together to come up with solutions. You seamlessly switch between being a coach, a facilitator, a mentor, a teacher, etc. You are not afraid to voice your opinion and you are a real go getter. Getting things done is a motto you live by.
+
+What are we looking for:
+2+ years of experience as a Scrum Master of multiple teams
+Demonstrable experience with guiding teams in their Scrum and DevOps journey
+Knowledgeable on and experience with the regular IT processes (CI/CD, Testing, Development Lifecycle, etc.)
+Preferably experience with teams that deal with data engineering
+Knowledge of Azure native cloud services and public cloud offerings in general
+PSM I and/or II certification is a plus
+We are offering
+At ABN AMRO, we offer a challenging and innovative environment. You will experience a good work-life balance with the freedom to optimize your performance in a flexible working environment. Furthermore, we think it is very important for our employees to be able to develop themselves. Therefore, we provide extensive learning paths for every expertise and a digital learning environment. Knowledge sharing within teams and departments but also across departments is stimulated and facilitated in multiple ways.
+In addition we offer:
+A competitive salary
+A supplementary benefit budget of 11% with which you can buy flexible benefits (including vacation days, mobile phone, (electric) bicycle and additional salary)
+25 vacation days
+Apart from the departmental training budget for the department you will receive a personal development budget of € 1.000 per year which can be save up to a maximum of 3.000
+An annual public transport pass
+A generous pension scheme
+Interested?
+Interesterd, please apply online. For more information please contact Jeffrey van Riel, telephonenumber 06 34040857.",-1,-1,https://indeed.nl/rc/clk?jk=50a68ac5e2fba80b&from=vj&sjdu=0ZFwD5rbjMRcHz87Kzx_g4iztdTb_2bOBnSpyL0eJqrCPBHgm2X4_rrqJKPwQ2B8STGmJzx_BW1z0gbJyMB8hvurfQy23qL7afsoFA53Vq_B4YvIUQ0ACMdzu3oQrba35zAJ1a65RDvMw5wzbVBLkg&spon=1&adid=341330116&mvj=0&vjfrom=vjs&pos=bottom&ad=-6NYlbfkN0A_cWh5ufxJCEatf9FOtgdwl-LajcKrnY3NwdklpeSDnu3zP8nC49W8vdwlFzj2GRmLdICj4fCoZ9ogjDY8ra36sW3AcpEU9H1TUXndcVTGijvdlSIcVrZfNHAAyFYVJkYexVaAiHtO--btEaqKukQ1XWwfK_Mixdl_73uuWEqKxjzwVU6sirBbPsSnUJtdciBnFesGjMyvFKjeepOdDBj7ubdWQOHz2e4oGOI64NmAe9iXPzcV7zh5IkrmoeaNaW5EVIMKGzJTy8pTQnXzggQvZAFhtIcJUx07uXNYYtE24oysSdRSgcWlvCbmA_eG8Iy7XehM4wiM5dBiApUjhYkAist-c1iS612VML--Xx0ayNgx0rCWFUvBK4kDB4LhzJPeRoam27RbhbSifkxv13VAOHiZU8t-AIcDkHK5fqbII1BTOwF6Evr3xuGr7d3HyQBuJkuY2Cx9JSJl9ljIXN4VN3hFWquh5wpMAVUKQmuWbyTVSgfX__FjWtp34GKUOz7Q84-erDOaeXn0j4Glvtt-tjWARForKaQ5Rs2MgBYKFFu4veJbLNSJSl-bv-ErUPJd4v3U2PE_3R1Fb1BG__62PZLgPiZ6pXE1UrKAFuUqpQ==&astse=69f371bc89e2737c&assa=8194,https://nl.indeed.com/vacature-bekijken?jk=e7ec31b1db943251&fccid=48bd81b1458076a5&vjs=3,16 dagen geleden,16 dagen geleden,2021-04-09,en,No,No,education,0,1,0,0,1,0,2.0,2.0,P,0.6512915129151291,0.34870848708487084,0.466789667896679,0.5313653136531366,Mixed Gender,Mixed Age
